@@ -11,7 +11,7 @@ A lightweight Windows background app that monitors PowerPoint presentations bein
 - ☁️ Uploads each file to a pre-configured **Google Drive** folder
 - 🔐 Uses a **Google service account** — no login prompts or browser windows
 - 🧼 Runs silently in the background (only visible in Task Manager)
-- 💼 Ideal for **hospital**, **corporate**, or **kiosk** environments
+- 💼 Ideal for **conference**,**meeting**, **hospital**, **corporate**, or **kiosk** environments
 
 ---
 
